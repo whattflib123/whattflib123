@@ -12,7 +12,7 @@
 - Python 自動化與工具開發
 
 興趣：
-- 喜歡用 **Python** 解決生活中的問題
+- 喜歡將複雜數據轉化為直觀、有用的資訊，並善於整合 API 與自動化流程來解決實際問題。
 
 ---
 
@@ -27,9 +27,10 @@ Expertise:
 - Python scripting and automation
 
 Hobbies:
-- Enjoy using **Python** to solve everyday problems
+ - Enjoy turning complex data into actionable insights and automating workflows by integrating APIs and intelligent scripts.
 
 ---
 
 ## 💻 Featured Projects
-- **[address_detector]** - "Monitors a Hyperliquid wallet's holdings and orders, sending real-time updates via Telegram."
+- **[address_detector](https://github.com/whattflib123/address_detector)** - "Monitors a Hyperliquid wallet's holdings and orders, sending real-time updates via Telegram."
+- **[Stock_MA_Trend_AlertBot](https://github.com/whattflib123/Stock_MA_Trend_AlertBot)** - "A Telegram bot that alerts you when stocks approach key moving averages (EMA/SMA) with trend indicators."
