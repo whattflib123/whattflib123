@@ -31,6 +31,3 @@ Hobbies:
 
 ---
 
-## 💻 Featured Projects
-- **[address_detector](https://github.com/whattflib123/address_detector)** - "Monitors a Hyperliquid wallet's holdings and orders, sending real-time updates via Telegram."
-- **[Stock_MA_Trend_AlertBot](https://github.com/whattflib123/Stock_MA_Trend_AlertBot)** - "A Telegram bot that alerts you when stocks approach key moving averages (EMA/SMA) with trend indicators."
